@@ -6,4 +6,3 @@ class TestPerson(TestCase):
         self.fail()
 
 
-print("this is new code line")
