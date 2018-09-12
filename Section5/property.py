@@ -55,3 +55,6 @@ class WebPage:
             self._content = urlopen(self.url).read()
         print("use time total :{}".format(time.time() - starTime))
         return self._content
+
+
+//新上传的代码
