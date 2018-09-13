@@ -1,3 +1,4 @@
+#coding=-utf8
 class Person(object):
     def __init__(self, name, sex= True):
         self.name = name
